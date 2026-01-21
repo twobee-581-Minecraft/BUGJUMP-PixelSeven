@@ -8,3 +8,6 @@ A font similar to Mojangles, with uppercase letters 7 pixels tall, but supportin
 <img width="1060" height="58" alt="屏幕截图 2026-01-17 115736" src="https://github.com/user-attachments/assets/8956b035-53da-4b75-ae9a-b796a6daaf57" />
 该字体仍在不断制作中，之后还会补充更多!
 This font is still a work in progress, and more glyphs will be added later!
+## 开源协议
+本项目基于 **GNU GPL v3** 协议开源。
+任何基于本项目的二次创作、修改、分发（包括商用），均需遵循GPL v3协议，衍生作品必须以相同协议开源，并保留原作者署名。
