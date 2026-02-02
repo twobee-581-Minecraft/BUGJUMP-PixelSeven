@@ -8,6 +8,10 @@ A font similar to Mojangles, with uppercase letters 7 pixels tall, but supportin
 <img width="1060" height="58" alt="屏幕截图 2026-01-17 115736" src="https://github.com/user-attachments/assets/8956b035-53da-4b75-ae9a-b796a6daaf57" />
 该字体仍在不断制作中，之后还会补充更多!
 This font is still a work in progress, and more glyphs will be added later!
-## 开源协议
-本项目基于 **GNU GPL v3** 协议开源。
-任何基于本项目的二次创作、修改、分发（包括商用），均需遵循GPL v3协议，衍生作品必须以相同协议开源，并保留原作者署名。
+## 开源协议Open Source License
+本项目中的**字体文件（.otf/.ttf/.woff等格式）** 基于 SIL Open Font License (SIL OFL) 1.1 协议开源。The font files (.otf/.ttf/.woff, etc.) in this project are open-sourced under the SIL Open Font License (SIL OFL) 1.1.
+协议核心规则Core Rules of the License:
+1. 允许免费使用、修改、二次创作本字体（商用/非商用均可）Free to use, modify, and create derivatives of this font (for both commercial and non-commercial purposes);
+2. 基于本字体的衍生字体，必须继续使用 SIL OFL 1.1 协议开源Derivative fonts based on this font must be open-sourced under the SIL OFL 1.1 license.;
+3. 禁止将字体文件单独售卖，但可将字体嵌入设计作品、软件中商用Prohibition of selling the font files individually. However, the font can be embedded in design works or software for commercial use.;
+4. 用本字体制作的文档、设计作品等，不受OFL协议约束，无需开源Documents, design works, etc., created using this font are not subject to the OFL license and do not need to be open-sourced.
