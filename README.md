@@ -8,7 +8,7 @@ A font similar to Mojangles, with uppercase letters 7 pixels tall, but supportin
 该字体仍在不断制作中，之后还会补充更多!
 This font is still a work in progress, and more glyphs will be added later!
 ## 开源协议Open Source License
-本项目中的字体文件 基于 SIL Open Font License (SIL OFL) 1.1 协议开源。The font files (.otf/.ttf/.woff, etc.) in this project are open-sourced under the SIL Open Font License (SIL OFL) 1.1.
+本项目中的字体文件基于 SIL Open Font License (SIL OFL) 1.1 协议开源。The font files (.otf/.ttf/.woff, etc.) in this project are open-sourced under the SIL Open Font License (SIL OFL) 1.1.
 协议核心规则Core Rules of the License:
 1. 允许免费使用、修改、二次创作本字体（商用/非商用均可）Free to use, modify, and create derivatives of this font (for both commercial and non-commercial purposes);
 2. 基于本字体的衍生字体，必须继续使用 SIL OFL 1.1 协议开源Derivative fonts based on this font must be open-sourced under the SIL OFL 1.1 license.;
